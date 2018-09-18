@@ -15,7 +15,7 @@ The library uses [https://github.com/zxing/zxing][1] to decode the barcodes for 
 ## Installation
 
 ```
-npm install react-native-smart-barcode --save
+npm install MssMaster/react-native-smart-barcode --save
 ```
 
 ## Notice
@@ -132,7 +132,7 @@ see [ReactNativeComponentDemos][0]
 
 ## Usage
 
-Install the package from npm with `npm install react-native-smart-barcode --save`.
+Install the package from npm with `npm install MssMaster/react-native-smart-barcode --save`.
 Then, require it from your app's JavaScript files with `import Barcode from 'react-native-smart-barcode'`.
 
 ```js
